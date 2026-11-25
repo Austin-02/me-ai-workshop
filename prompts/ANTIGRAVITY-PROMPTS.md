@@ -50,33 +50,20 @@
 
 状态：数据包及文件级校验已完成；入仓指令为草案，BigQuery 实际执行尚未验证。当前 URL 为内部私有研发仓库，正式活动需学员有读取权限或替换为获批的数据包地址。
 
-### WP03-01 数据导入指令（草案）
+### WP03-01 数据导入指令（简化版，待实测）
 
-请在当前 Antigravity 中读取下方 GitHub 数据目录：
+请将以下 GitHub 目录中的 Shopify 模拟经营数据导入 BigQuery：
 
 https://github.com/Austin-02/me-ai-workshop/tree/main/03-demo-data
 
-读取 README.md、data_dictionary.md 和五张 CSV（products.csv、customers.csv、orders.csv、order_items.csv、inventory.csv）。按数据字典核对字段、类型、主键、关联关系、金额口径与数据行数；使用 variant_id 而非可能为空或重复的 SKU 关联商品变体。
+请自动读取 README.md、data_dictionary.md 和五张 CSV，按照数据字典设计表结构、处理空值，并使用 variant_id 关联商品变体。
 
-检查已连接 BigQuery 项目、目标数据集、区域、写入权限和拟创建五张表的明确 Schema。请先报告计划并等待我确认，授权不足或目标表已存在则停止，不覆盖或追加已有数据。经确认后，在指定的独立教学 Dataset 加载 CSV，UTF-8、跳过表头、按字典处理 NULL 和字段类型；记录实际 Job ID。使用实际 SQL 校验记录数、主键/关联完整性、订单与明细金额一致性、库存数量平衡及如下标准：
+先检查 BigQuery 连接、目标 Project、Dataset、区域及权限，给出导入计划，经我确认后再建表并导入。权限不足或目标表已存在时停止，不覆盖或追加已有数据。
 
-| 校验项 | 预期 |
-|---|---:|
-| products | 536 |
-| customers | 1,359 |
-| orders | 1,904 |
-| order_items | 2,679 |
-| inventory | 3,120 |
-| 销量 | 2,898 |
-| 折前销售额 USD | 2,089,243.90 |
-| 折扣 USD | 74,724.89 |
-| 净销售额 USD | 2,014,519.01 |
-| 订单与明细金额差异 | 0 |
-| 库存数量平衡差异 | 0 |
+导入完成后，使用实际 SQL 按 README 中的入仓基准核对记录数、销量、销售额、折扣、主键及关联完整性、订单金额和库存平衡。输出五张表的完整名称、实际校验结果、SQL、Job ID 和异常情况。
 
-输出实际项目/数据集、五张表完整名称、行数、校验 SQL、Job ID、结果及失败项。不能用预期值假冒查询结果。仅处理教学数据，不接触真实 Shopify 订单及客户信息，不修改店铺，不提交凭证。若导入未通过，明确阻塞，不直接进入 WP05。
+仅处理教学数据，不修改 Shopify 或泄露凭证。校验不通过时明确说明原因，不进入下一环节，不得编造执行结果。
 
-原数据包导入说明见 [README](../03-demo-data/README.md)；标准 Schema/备用脚本/SQL 待 WP03 进一步研发。
 
 ## WP04｜安装电商经营分析 Skill
 
