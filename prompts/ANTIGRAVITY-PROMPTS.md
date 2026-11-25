@@ -69,13 +69,29 @@ https://github.com/Austin-02/me-ai-workshop/tree/main/03-demo-data
 
 状态：待研发/确认已有 Skill 来源及 BQ 适配方案。此处预留 WP04-01 完整安装指令；不得将占位视为可执行 Prompt。完成来源、版本、许可、安装方式与验收标准后更新。
 
-## WP05｜创建 BQ 经营分析 Agent 并输出 PPT
+## WP05｜在 Anti 创建 Agent，发布至 GE 并输出 PPT
 
-状态：WP05-01 Agent 创建完整指令待研发。应依赖已通过 WP03 入仓验证、可访问的 BQ 和 WP04 已安装的分析 Skill（若采用），并调用已验证的 PPT Skill。不得把尚未创建或运行的 Agent 描述为已完成。
+状态：WP05-01 指令已确认并归档，尚未实测。依赖 WP03 入仓验收、WP04 分析 Skill、获授权的 Agent 部署环境与 GE 应用。WP04 目录当前尚未包含完整 Skill，待确认准确 Skill ID。所有研发/部署 Prompt 输入 Anti；发布后学员在 GE 中实际体验自己创建的经营分析 Agent。会前权限准备见 [技术清单](../06-agent-builder/authorization-checklist.md)。
+
+### WP05-01 创建并发布企业经营分析 Agent（已确认，待实测）
+
+请读取我在 Antigravity 中已安装的 ME 电商经营分析 Skill，参考其 GitHub 源码及分析规则：
+
+https://github.com/Austin-02/me-ai-workshop/tree/main/05-data-analysis
+
+自动识别 BigQuery 中已导入的 Shopify 模拟经营数据，包括 products、customers、orders、order_items、inventory 五张表。
+
+使用 Google Agents CLI 和 ADK，将该 Skill 的经营分析能力封装为一个名为「ME 电商经营分析助手」的 Agent，并配置 BigQuery 只读查询能力，完成实际数据分析测试。
+
+请自动识别当前 Google Cloud Project 及可用的 Gemini Enterprise 应用，向我确认部署目标及计划后，将 Agent 部署至 Agent Runtime 并注册到 Gemini Enterprise。
+
+完成后验证 Agent 的数据查询能力、GE 注册状态及用户访问权限，并提供 GE 访问入口。
+
+如存在权限不足、环境缺失、数据集或应用无法识别等问题，请提示我处理，不得虚构执行结果。
 
 ### WP05-02 经营分析报告 PPT 指令（已归档，待联调）
 
-请调用 aidea-ppt-me，将上一环节基于 BigQuery 实际查询所得的经营分析结果制作成 5–8 页可编辑 PPTX（建议标准 ME2026 / report）。面向企业管理层；仅使用已经查询核验的数据，注明模拟数据、期间、币种、指标口径、SQL 或结果来源。建议包含经营概况、趋势、商品、客户/库存发现、待验证假设和行动建议。不得编造转化率、ROAS、利润或未经验证的因果结论。先提交逐页内容、数据图表和配图计划，等待我明确确认后再生成并进行 QA。若当前上下文缺少分析结果，先要求提供，不用假数据替代。
+请调用 aidea-ppt-me，将我从 Gemini Enterprise 中自建经营分析 Agent 获取、并复制到当前 Antigravity 对话中的 BigQuery 实际查询分析结果制作成 5–8 页可编辑 PPTX（建议标准 ME2026 / report）。面向企业管理层；仅使用已经查询核验的数据，注明模拟数据、期间、币种、指标口径、SQL 或结果来源。建议包含经营概况、趋势、商品、客户/库存发现、待验证假设和行动建议。不得编造转化率、ROAS、利润或未经验证的因果结论。先提交逐页内容、数据图表和配图计划，等待我明确确认后再生成并进行 QA。若当前上下文缺少分析结果，先要求提供，不用假数据替代。
 
 ---
 
