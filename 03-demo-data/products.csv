@@ -1,0 +1,537 @@
+product_id,variant_id,handle,product_title,shopify_category,product_type,product_status,published,sku,option1_name,option1_value,option2_name,option2_value,option3_name,option3_value,catalog_price,currency,demo_assortment
+P001,P001-V001,100-cotton-long-straight-fit-coat,100% cotton long straight-fit coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,l,Color,black,,,999.00,USD,true
+P001,P001-V002,100-cotton-long-straight-fit-coat,100% cotton long straight-fit coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,l,Color,white,,,999.00,USD,true
+P001,P001-V003,100-cotton-long-straight-fit-coat,100% cotton long straight-fit coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,m,Color,black,,,999.00,USD,true
+P001,P001-V004,100-cotton-long-straight-fit-coat,100% cotton long straight-fit coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,m,Color,white,,,999.00,USD,true
+P001,P001-V005,100-cotton-long-straight-fit-coat,100% cotton long straight-fit coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,SKU45763417637122,Size,xl,Color,black,,,999.00,USD,true
+P001,P001-V006,100-cotton-long-straight-fit-coat,100% cotton long straight-fit coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,xl,Color,white,,,999.00,USD,true
+P002,P002-V001,asymmetric-belt-jumpsuit,Asymmetric belt jumpsuit,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P002,P002-V002,asymmetric-belt-jumpsuit,Asymmetric belt jumpsuit,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P002,P002-V003,asymmetric-belt-jumpsuit,Asymmetric belt jumpsuit,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P002,P002-V004,asymmetric-belt-jumpsuit,Asymmetric belt jumpsuit,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P002,P002-V005,asymmetric-belt-jumpsuit,Asymmetric belt jumpsuit,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P003,P003-V001,asymmetric-belt-jumpsuit-sca_clone_freegift,馃巵 Asymmetric belt jumpsuit (100% off),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,0.00,USD,false
+P003,P003-V002,asymmetric-belt-jumpsuit-sca_clone_freegift,馃巵 Asymmetric belt jumpsuit (100% off),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,0.00,USD,false
+P003,P003-V003,asymmetric-belt-jumpsuit-sca_clone_freegift,馃巵 Asymmetric belt jumpsuit (100% off),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,0.00,USD,false
+P003,P003-V004,asymmetric-belt-jumpsuit-sca_clone_freegift,馃巵 Asymmetric belt jumpsuit (100% off),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,0.00,USD,false
+P003,P003-V005,asymmetric-belt-jumpsuit-sca_clone_freegift,馃巵 Asymmetric belt jumpsuit (100% off),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,0.00,USD,false
+P004,P004-V001,asymmetric-draped-gown,Asymmetric draped gown,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,L,,,,,1299.00,USD,true
+P004,P004-V002,asymmetric-draped-gown,Asymmetric draped gown,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,M,,,,,1299.00,USD,true
+P004,P004-V003,asymmetric-draped-gown,Asymmetric draped gown,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,S,,,,,1299.00,USD,true
+P004,P004-V004,asymmetric-draped-gown,Asymmetric draped gown,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XL,,,,,1299.00,USD,true
+P004,P004-V005,asymmetric-draped-gown,Asymmetric draped gown,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XS,,,,,1299.00,USD,true
+P005,P005-V001,asymmetrical-cotton-skirt,Asymmetrical cotton skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P005,P005-V002,asymmetrical-cotton-skirt,Asymmetrical cotton skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P005,P005-V003,asymmetrical-cotton-skirt,Asymmetrical cotton skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P005,P005-V004,asymmetrical-cotton-skirt,Asymmetrical cotton skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P005,P005-V005,asymmetrical-cotton-skirt,Asymmetrical cotton skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P006,P006-V001,asymmetrical-satin-jumpsuit,Asymmetrical satin jumpsuit,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,1199.00,USD,true
+P006,P006-V002,asymmetrical-satin-jumpsuit,Asymmetrical satin jumpsuit,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,1199.00,USD,true
+P006,P006-V003,asymmetrical-satin-jumpsuit,Asymmetrical satin jumpsuit,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,1199.00,USD,true
+P006,P006-V004,asymmetrical-satin-jumpsuit,Asymmetrical satin jumpsuit,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,1199.00,USD,true
+P006,P006-V005,asymmetrical-satin-jumpsuit,Asymmetrical satin jumpsuit,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,1199.00,USD,true
+P007,P007-V001,asymmetrical-wool-blend-sweater,Asymmetrical wool-blend sweater,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P007,P007-V002,asymmetrical-wool-blend-sweater,Asymmetrical wool-blend sweater,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P007,P007-V003,asymmetrical-wool-blend-sweater,Asymmetrical wool-blend sweater,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P007,P007-V004,asymmetrical-wool-blend-sweater,Asymmetrical wool-blend sweater,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P007,P007-V005,asymmetrical-wool-blend-sweater,Asymmetrical wool-blend sweater,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P008,P008-V001,balloon-ruffled-mini-skirt,Balloon ruffled mini-skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P008,P008-V002,balloon-ruffled-mini-skirt,Balloon ruffled mini-skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P008,P008-V003,balloon-ruffled-mini-skirt,Balloon ruffled mini-skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P008,P008-V004,balloon-ruffled-mini-skirt,Balloon ruffled mini-skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P008,P008-V005,balloon-ruffled-mini-skirt,Balloon ruffled mini-skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P009,P009-V001,coat-with-lapels-and-belt,Coat with lapels and belt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,l,,,,,679.15,USD,true
+P009,P009-V002,coat-with-lapels-and-belt,Coat with lapels and belt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,m,,,,,679.15,USD,true
+P009,P009-V003,coat-with-lapels-and-belt,Coat with lapels and belt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,s,,,,,679.15,USD,true
+P009,P009-V004,coat-with-lapels-and-belt,Coat with lapels and belt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,xl,,,,,679.15,USD,true
+P009,P009-V005,coat-with-lapels-and-belt,Coat with lapels and belt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,xs,,,,,679.15,USD,true
+P010,P010-V001,contrast-spaghetti-strap-top,Contrast spaghetti strap top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P010,P010-V002,contrast-spaghetti-strap-top,Contrast spaghetti strap top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P010,P010-V003,contrast-spaghetti-strap-top,Contrast spaghetti strap top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P010,P010-V004,contrast-spaghetti-strap-top,Contrast spaghetti strap top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P010,P010-V005,contrast-spaghetti-strap-top,Contrast spaghetti strap top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P011,P011-V001,cotton-boat-neck-t-shirt,Cotton boat neck t-shirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,beige,Size,l,,,399.00,USD,true
+P011,P011-V002,cotton-boat-neck-t-shirt,Cotton boat neck t-shirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,beige,Size,m,,,399.00,USD,true
+P011,P011-V003,cotton-boat-neck-t-shirt,Cotton boat neck t-shirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,beige,Size,xl,,,399.00,USD,true
+P011,P011-V004,cotton-boat-neck-t-shirt,Cotton boat neck t-shirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,black,Size,l,,,399.00,USD,true
+P011,P011-V005,cotton-boat-neck-t-shirt,Cotton boat neck t-shirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,black,Size,m,,,399.00,USD,true
+P011,P011-V006,cotton-boat-neck-t-shirt,Cotton boat neck t-shirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,black,Size,xl,,,399.00,USD,true
+P012,P012-V001,cotton-boat-neck-t-shirt-1,Cotton boat neck t-shirt 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,299.00,USD,true
+P012,P012-V002,cotton-boat-neck-t-shirt-1,Cotton boat neck t-shirt 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,299.00,USD,true
+P012,P012-V003,cotton-boat-neck-t-shirt-1,Cotton boat neck t-shirt 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,299.00,USD,true
+P012,P012-V004,cotton-boat-neck-t-shirt-1,Cotton boat neck t-shirt 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,299.00,USD,true
+P012,P012-V005,cotton-boat-neck-t-shirt-1,Cotton boat neck t-shirt 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,299.00,USD,true
+P013,P013-V001,cotton-boat-neck-t-shirt-copy,Cotton boat neck t-shirt (test1),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,black,Size,l,,,399.00,USD,false
+P013,P013-V002,cotton-boat-neck-t-shirt-copy,Cotton boat neck t-shirt (test1),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,black,Size,m,,,399.00,USD,false
+P013,P013-V003,cotton-boat-neck-t-shirt-copy,Cotton boat neck t-shirt (test1),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,black,Size,xl,,,399.00,USD,false
+P014,P014-V001,cotton-boat-neck-t-shirt-test1-copy,Cotton boat neck t-shirt (test2),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,white,Size,3xs,,,399.00,USD,false
+P014,P014-V002,cotton-boat-neck-t-shirt-test1-copy,Cotton boat neck t-shirt (test2),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,white,Size,l,,,399.00,USD,false
+P014,P014-V003,cotton-boat-neck-t-shirt-test1-copy,Cotton boat neck t-shirt (test2),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,white,Size,m,,,399.00,USD,false
+P014,P014-V004,cotton-boat-neck-t-shirt-test1-copy,Cotton boat neck t-shirt (test2),Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Color,white,Size,xl,,,399.00,USD,false
+P015,P015-V001,cropped-trench-coat-with-lapels,Cropped trench coat with lapels,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,l,,,,,339.15,USD,true
+P015,P015-V002,cropped-trench-coat-with-lapels,Cropped trench coat with lapels,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,m,,,,,339.15,USD,true
+P015,P015-V003,cropped-trench-coat-with-lapels,Cropped trench coat with lapels,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,s,,,,,339.15,USD,true
+P015,P015-V004,cropped-trench-coat-with-lapels,Cropped trench coat with lapels,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,xl,,,,,339.15,USD,true
+P015,P015-V005,cropped-trench-coat-with-lapels,Cropped trench coat with lapels,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,xs,,,,,339.15,USD,true
+P016,P016-V001,denim-jumpsuit-belt,Denim jumpsuit belt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P016,P016-V002,denim-jumpsuit-belt,Denim jumpsuit belt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P016,P016-V003,denim-jumpsuit-belt,Denim jumpsuit belt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P016,P016-V004,denim-jumpsuit-belt,Denim jumpsuit belt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P016,P016-V005,denim-jumpsuit-belt,Denim jumpsuit belt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P017,P017-V001,denim-parka-with-contrasting-collar,Denim parka with contrasting collar,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,l,,,,,499.00,USD,true
+P017,P017-V002,denim-parka-with-contrasting-collar,Denim parka with contrasting collar,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,m,,,,,499.00,USD,true
+P017,P017-V003,denim-parka-with-contrasting-collar,Denim parka with contrasting collar,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,s,,,,,499.00,USD,true
+P017,P017-V004,denim-parka-with-contrasting-collar,Denim parka with contrasting collar,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,xl,,,,,499.00,USD,true
+P017,P017-V005,denim-parka-with-contrasting-collar,Denim parka with contrasting collar,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,xs,,,,,499.00,USD,true
+P018,P018-V001,double-breasted-knitted-jacket,Double-breasted knitted jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,L,,,,,399.00,USD,true
+P018,P018-V002,double-breasted-knitted-jacket,Double-breasted knitted jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,M,,,,,399.00,USD,true
+P018,P018-V003,double-breasted-knitted-jacket,Double-breasted knitted jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,S,,,,,399.00,USD,true
+P018,P018-V004,double-breasted-knitted-jacket,Double-breasted knitted jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XL,,,,,399.00,USD,true
+P018,P018-V005,double-breasted-knitted-jacket,Double-breasted knitted jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XS,,,,,399.00,USD,true
+P019,P019-V001,double-breasted-virgin-wool-coat,Double-breasted virgin wool coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,l,,,,,1999.00,USD,true
+P019,P019-V002,double-breasted-virgin-wool-coat,Double-breasted virgin wool coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,m,,,,,1999.00,USD,true
+P019,P019-V003,double-breasted-virgin-wool-coat,Double-breasted virgin wool coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,s,,,,,1999.00,USD,true
+P019,P019-V004,double-breasted-virgin-wool-coat,Double-breasted virgin wool coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,xl,,,,,1999.00,USD,true
+P019,P019-V005,double-breasted-virgin-wool-coat,Double-breasted virgin wool coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,xs,,,,,1999.00,USD,true
+P020,P020-V001,fine-ribbed-knit-top-1,Fine ribbed knit top 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,299.00,USD,true
+P020,P020-V002,fine-ribbed-knit-top-1,Fine ribbed knit top 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,299.00,USD,true
+P020,P020-V003,fine-ribbed-knit-top-1,Fine ribbed knit top 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,299.00,USD,true
+P020,P020-V004,fine-ribbed-knit-top-1,Fine ribbed knit top 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,299.00,USD,true
+P020,P020-V005,fine-ribbed-knit-top-1,Fine ribbed knit top 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,299.00,USD,true
+P021,P021-V001,fine-ribbed-knit-top-2,Fine ribbed knit top 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,L,,,,,399.00,USD,true
+P021,P021-V002,fine-ribbed-knit-top-2,Fine ribbed knit top 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,M,,,,,399.00,USD,true
+P021,P021-V003,fine-ribbed-knit-top-2,Fine ribbed knit top 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,S,,,,,399.00,USD,true
+P021,P021-V004,fine-ribbed-knit-top-2,Fine ribbed knit top 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XL,,,,,399.00,USD,true
+P021,P021-V005,fine-ribbed-knit-top-2,Fine ribbed knit top 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XS,,,,,399.00,USD,true
+P022,P022-V001,fitted-suit-jacket-1,Fitted suit jacket 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,299.00,USD,true
+P022,P022-V002,fitted-suit-jacket-1,Fitted suit jacket 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,299.00,USD,true
+P022,P022-V003,fitted-suit-jacket-1,Fitted suit jacket 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,299.00,USD,true
+P022,P022-V004,fitted-suit-jacket-1,Fitted suit jacket 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,299.00,USD,true
+P022,P022-V005,fitted-suit-jacket-1,Fitted suit jacket 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,299.00,USD,true
+P023,P023-V001,fitted-suit-jacket-2,Fitted suit jacket 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,L,,,,,399.00,USD,true
+P023,P023-V002,fitted-suit-jacket-2,Fitted suit jacket 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,M,,,,,399.00,USD,true
+P023,P023-V003,fitted-suit-jacket-2,Fitted suit jacket 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,S,,,,,399.00,USD,true
+P023,P023-V004,fitted-suit-jacket-2,Fitted suit jacket 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XL,,,,,399.00,USD,true
+P023,P023-V005,fitted-suit-jacket-2,Fitted suit jacket 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XS,,,,,399.00,USD,true
+P024,P024-V001,fitted-suit-jacket-3,Fitted suit jacket 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P024,P024-V002,fitted-suit-jacket-3,Fitted suit jacket 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P024,P024-V003,fitted-suit-jacket-3,Fitted suit jacket 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P024,P024-V004,fitted-suit-jacket-3,Fitted suit jacket 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P024,P024-V005,fitted-suit-jacket-3,Fitted suit jacket 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P025,P025-V001,fitted-suit-jacket-4,Fitted suit jacket 4,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,599.00,USD,true
+P025,P025-V002,fitted-suit-jacket-4,Fitted suit jacket 4,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,599.00,USD,true
+P025,P025-V003,fitted-suit-jacket-4,Fitted suit jacket 4,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,599.00,USD,true
+P025,P025-V004,fitted-suit-jacket-4,Fitted suit jacket 4,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,599.00,USD,true
+P025,P025-V005,fitted-suit-jacket-4,Fitted suit jacket 4,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,599.00,USD,true
+P026,P026-V001,jacket-with-mandarin-collar-and-jewel-buttons,Jacket with mandarin collar and jewel buttons,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,1199.00,USD,true
+P026,P026-V002,jacket-with-mandarin-collar-and-jewel-buttons,Jacket with mandarin collar and jewel buttons,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,1199.00,USD,true
+P026,P026-V003,jacket-with-mandarin-collar-and-jewel-buttons,Jacket with mandarin collar and jewel buttons,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,1199.00,USD,true
+P026,P026-V004,jacket-with-mandarin-collar-and-jewel-buttons,Jacket with mandarin collar and jewel buttons,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,1199.00,USD,true
+P026,P026-V005,jacket-with-mandarin-collar-and-jewel-buttons,Jacket with mandarin collar and jewel buttons,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,1199.00,USD,true
+P027,P027-V001,knit-strap-top,Knit strap top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,599.00,USD,true
+P027,P027-V002,knit-strap-top,Knit strap top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,599.00,USD,true
+P027,P027-V003,knit-strap-top,Knit strap top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,599.00,USD,true
+P027,P027-V004,knit-strap-top,Knit strap top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,599.00,USD,true
+P027,P027-V005,knit-strap-top,Knit strap top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,599.00,USD,true
+P028,P028-V001,knitted-sweater-with-asymmetrical-neck,Knitted sweater with asymmetrical neck,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,299.00,USD,true
+P028,P028-V002,knitted-sweater-with-asymmetrical-neck,Knitted sweater with asymmetrical neck,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,299.00,USD,true
+P028,P028-V003,knitted-sweater-with-asymmetrical-neck,Knitted sweater with asymmetrical neck,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,299.00,USD,true
+P028,P028-V004,knitted-sweater-with-asymmetrical-neck,Knitted sweater with asymmetrical neck,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,299.00,USD,true
+P028,P028-V005,knitted-sweater-with-asymmetrical-neck,Knitted sweater with asymmetrical neck,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,299.00,USD,true
+P029,P029-V001,leather-biker-jacket,Leather biker jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,L,,,,,1299.00,USD,true
+P029,P029-V002,leather-biker-jacket,Leather biker jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,M,,,,,1299.00,USD,true
+P029,P029-V003,leather-biker-jacket,Leather biker jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,S,,,,,1299.00,USD,true
+P029,P029-V004,leather-biker-jacket,Leather biker jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XL,,,,,1299.00,USD,true
+P029,P029-V005,leather-biker-jacket,Leather biker jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XS,,,,,1299.00,USD,true
+P030,P030-V001,leopard-print-straight-jeans,Leopard-print straight jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,299.00,USD,true
+P030,P030-V002,leopard-print-straight-jeans,Leopard-print straight jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,299.00,USD,true
+P030,P030-V003,leopard-print-straight-jeans,Leopard-print straight jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,299.00,USD,true
+P030,P030-V004,leopard-print-straight-jeans,Leopard-print straight jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,299.00,USD,true
+P030,P030-V005,leopard-print-straight-jeans,Leopard-print straight jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,299.00,USD,true
+P031,P031-V001,logo-cotton-t-shirt-1,Logo cotton T-shirt 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P031,P031-V002,logo-cotton-t-shirt-1,Logo cotton T-shirt 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P031,P031-V003,logo-cotton-t-shirt-1,Logo cotton T-shirt 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P031,P031-V004,logo-cotton-t-shirt-1,Logo cotton T-shirt 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P031,P031-V005,logo-cotton-t-shirt-1,Logo cotton T-shirt 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P032,P032-V001,logo-cotton-t-shirt-2,Logo cotton T-shirt 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,599.00,USD,true
+P032,P032-V002,logo-cotton-t-shirt-2,Logo cotton T-shirt 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,599.00,USD,true
+P032,P032-V003,logo-cotton-t-shirt-2,Logo cotton T-shirt 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,599.00,USD,true
+P032,P032-V004,logo-cotton-t-shirt-2,Logo cotton T-shirt 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,599.00,USD,true
+P032,P032-V005,logo-cotton-t-shirt-2,Logo cotton T-shirt 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,599.00,USD,true
+P033,P033-V001,logo-cotton-t-shirt-3,Logo cotton T-shirt 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P033,P033-V002,logo-cotton-t-shirt-3,Logo cotton T-shirt 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P033,P033-V003,logo-cotton-t-shirt-3,Logo cotton T-shirt 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P033,P033-V004,logo-cotton-t-shirt-3,Logo cotton T-shirt 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P033,P033-V005,logo-cotton-t-shirt-3,Logo cotton T-shirt 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P034,P034-V001,low-rise-flared-jeans,Low-rise flared jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P034,P034-V002,low-rise-flared-jeans,Low-rise flared jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P034,P034-V003,low-rise-flared-jeans,Low-rise flared jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P034,P034-V004,low-rise-flared-jeans,Low-rise flared jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P034,P034-V005,low-rise-flared-jeans,Low-rise flared jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P035,P035-V001,low-rise-rinse-wash-wideleg-jeans,Low-rise rinse-wash wideleg jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P035,P035-V002,low-rise-rinse-wash-wideleg-jeans,Low-rise rinse-wash wideleg jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P035,P035-V003,low-rise-rinse-wash-wideleg-jeans,Low-rise rinse-wash wideleg jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P035,P035-V004,low-rise-rinse-wash-wideleg-jeans,Low-rise rinse-wash wideleg jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P035,P035-V005,low-rise-rinse-wash-wideleg-jeans,Low-rise rinse-wash wideleg jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P036,P036-V001,midi-satin-skirt,Midi satin skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,599.00,USD,true
+P036,P036-V002,midi-satin-skirt,Midi satin skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,599.00,USD,true
+P036,P036-V003,midi-satin-skirt,Midi satin skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,599.00,USD,true
+P036,P036-V004,midi-satin-skirt,Midi satin skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,599.00,USD,true
+P036,P036-V005,midi-satin-skirt,Midi satin skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,599.00,USD,true
+P037,P037-V001,new-t-shrit,New T-shrit,Apparel & Accessories > Clothing > Clothing Tops > Tank Tops,,active,true,,Color,animal,,,,,99.00,USD,true
+P037,P037-V002,new-t-shrit,New T-shrit,Apparel & Accessories > Clothing > Clothing Tops > Tank Tops,,active,true,,Color,black,,,,,99.00,USD,true
+P037,P037-V003,new-t-shrit,New T-shrit,Apparel & Accessories > Clothing > Clothing Tops > Tank Tops,,active,true,,Color,white,,,,,99.00,USD,true
+P038,P038-V001,newmom-comfort-high-rise-jeans,Newmom comfort high-rise jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,599.00,USD,true
+P038,P038-V002,newmom-comfort-high-rise-jeans,Newmom comfort high-rise jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,599.00,USD,true
+P038,P038-V003,newmom-comfort-high-rise-jeans,Newmom comfort high-rise jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,599.00,USD,true
+P038,P038-V004,newmom-comfort-high-rise-jeans,Newmom comfort high-rise jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,599.00,USD,true
+P038,P038-V005,newmom-comfort-high-rise-jeans,Newmom comfort high-rise jeans,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,599.00,USD,true
+P039,P039-V001,openwork-detail-top,Openwork detail top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P039,P039-V002,openwork-detail-top,Openwork detail top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P039,P039-V003,openwork-detail-top,Openwork detail top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P039,P039-V004,openwork-detail-top,Openwork detail top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P039,P039-V005,openwork-detail-top,Openwork detail top,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P040,P040-V001,polka-dot-knitted-cardigan,Polka-dot knitted cardigan,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,599.00,USD,true
+P040,P040-V002,polka-dot-knitted-cardigan,Polka-dot knitted cardigan,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,599.00,USD,true
+P040,P040-V003,polka-dot-knitted-cardigan,Polka-dot knitted cardigan,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,599.00,USD,true
+P040,P040-V004,polka-dot-knitted-cardigan,Polka-dot knitted cardigan,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,599.00,USD,true
+P040,P040-V005,polka-dot-knitted-cardigan,Polka-dot knitted cardigan,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,599.00,USD,true
+P041,P041-V001,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P001,,,,,4.99,USD,false
+P041,P041-V002,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P002,,,,,9.99,USD,false
+P041,P041-V003,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P003,,,,,14.99,USD,false
+P041,P041-V004,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P004,,,,,19.99,USD,false
+P041,P041-V005,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P005,,,,,24.99,USD,false
+P041,P041-V006,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P006,,,,,29.99,USD,false
+P041,P041-V007,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P007,,,,,34.99,USD,false
+P041,P041-V008,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P008,,,,,39.99,USD,false
+P041,P041-V009,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P009,,,,,44.99,USD,false
+P041,P041-V010,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P010,,,,,49.99,USD,false
+P041,P041-V011,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P011,,,,,54.99,USD,false
+P041,P041-V012,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P012,,,,,59.99,USD,false
+P041,P041-V013,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P013,,,,,64.99,USD,false
+P041,P041-V014,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P014,,,,,69.99,USD,false
+P041,P041-V015,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P015,,,,,74.99,USD,false
+P041,P041-V016,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P016,,,,,79.99,USD,false
+P041,P041-V017,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P017,,,,,84.99,USD,false
+P041,P041-V018,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P018,,,,,89.99,USD,false
+P041,P041-V019,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P019,,,,,94.99,USD,false
+P041,P041-V020,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P020,,,,,99.99,USD,false
+P041,P041-V021,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P021,,,,,109.00,USD,false
+P041,P041-V022,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P022,,,,,119.00,USD,false
+P041,P041-V023,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P023,,,,,129.00,USD,false
+P041,P041-V024,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P024,,,,,139.00,USD,false
+P041,P041-V025,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P025,,,,,149.00,USD,false
+P041,P041-V026,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P026,,,,,159.00,USD,false
+P041,P041-V027,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P027,,,,,169.00,USD,false
+P041,P041-V028,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P028,,,,,179.00,USD,false
+P041,P041-V029,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P029,,,,,189.00,USD,false
+P041,P041-V030,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P030,,,,,199.00,USD,false
+P041,P041-V031,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P031,,,,,209.00,USD,false
+P041,P041-V032,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P032,,,,,219.00,USD,false
+P041,P041-V033,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P033,,,,,229.00,USD,false
+P041,P041-V034,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P034,,,,,239.00,USD,false
+P041,P041-V035,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P035,,,,,249.00,USD,false
+P041,P041-V036,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P036,,,,,259.00,USD,false
+P041,P041-V037,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P037,,,,,269.00,USD,false
+P041,P041-V038,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P038,,,,,279.00,USD,false
+P041,P041-V039,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P039,,,,,289.00,USD,false
+P041,P041-V040,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P040,,,,,299.00,USD,false
+P041,P041-V041,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P041,,,,,309.00,USD,false
+P041,P041-V042,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P042,,,,,319.00,USD,false
+P041,P041-V043,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P043,,,,,329.00,USD,false
+P041,P041-V044,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P044,,,,,339.00,USD,false
+P041,P041-V045,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P045,,,,,349.00,USD,false
+P041,P041-V046,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P046,,,,,359.00,USD,false
+P041,P041-V047,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P047,,,,,369.00,USD,false
+P041,P041-V048,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P048,,,,,379.00,USD,false
+P041,P041-V049,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P049,,,,,389.00,USD,false
+P041,P041-V050,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P050,,,,,399.00,USD,false
+P041,P041-V051,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P051,,,,,409.00,USD,false
+P041,P041-V052,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P052,,,,,419.00,USD,false
+P041,P041-V053,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P053,,,,,429.00,USD,false
+P041,P041-V054,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P054,,,,,439.00,USD,false
+P041,P041-V055,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P055,,,,,449.00,USD,false
+P041,P041-V056,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P056,,,,,459.00,USD,false
+P041,P041-V057,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P057,,,,,469.00,USD,false
+P041,P041-V058,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P058,,,,,479.00,USD,false
+P041,P041-V059,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P059,,,,,489.00,USD,false
+P041,P041-V060,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P060,,,,,499.00,USD,false
+P041,P041-V061,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P061,,,,,549.00,USD,false
+P041,P041-V062,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P062,,,,,599.00,USD,false
+P041,P041-V063,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P063,,,,,649.00,USD,false
+P041,P041-V064,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P064,,,,,699.00,USD,false
+P041,P041-V065,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P065,,,,,749.00,USD,false
+P041,P041-V066,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P066,,,,,799.00,USD,false
+P041,P041-V067,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P067,,,,,849.00,USD,false
+P041,P041-V068,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P068,,,,,899.00,USD,false
+P041,P041-V069,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P069,,,,,949.00,USD,false
+P041,P041-V070,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P070,,,,,999.00,USD,false
+P041,P041-V071,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P071,,,,,1099.00,USD,false
+P041,P041-V072,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P072,,,,,1199.00,USD,false
+P041,P041-V073,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P073,,,,,1299.00,USD,false
+P041,P041-V074,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P074,,,,,1399.00,USD,false
+P041,P041-V075,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P075,,,,,1499.00,USD,false
+P041,P041-V076,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P076,,,,,1599.00,USD,false
+P041,P041-V077,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P077,,,,,1699.00,USD,false
+P041,P041-V078,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P078,,,,,1799.00,USD,false
+P041,P041-V079,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P079,,,,,1899.00,USD,false
+P041,P041-V080,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P080,,,,,1999.00,USD,false
+P041,P041-V081,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P081,,,,,2099.00,USD,false
+P041,P041-V082,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P082,,,,,2199.00,USD,false
+P041,P041-V083,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P083,,,,,2299.00,USD,false
+P041,P041-V084,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P084,,,,,2399.00,USD,false
+P041,P041-V085,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P085,,,,,2499.00,USD,false
+P041,P041-V086,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P086,,,,,2599.00,USD,false
+P041,P041-V087,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P087,,,,,2699.00,USD,false
+P041,P041-V088,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P088,,,,,2799.00,USD,false
+P041,P041-V089,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P089,,,,,2899.00,USD,false
+P041,P041-V090,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P090,,,,,2999.00,USD,false
+P041,P041-V091,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P091,,,,,3099.00,USD,false
+P041,P041-V092,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P092,,,,,3199.00,USD,false
+P041,P041-V093,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P093,,,,,3299.00,USD,false
+P041,P041-V094,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P094,,,,,3399.00,USD,false
+P041,P041-V095,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P095,,,,,3499.00,USD,false
+P041,P041-V096,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P096,,,,,3599.00,USD,false
+P041,P041-V097,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P097,,,,,3699.00,USD,false
+P041,P041-V098,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P098,,,,,3799.00,USD,false
+P041,P041-V099,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P099,,,,,3899.00,USD,false
+P041,P041-V100,product-protection,Product Protection,,shipping-protection,unlisted,true,XMHPPSKU,Protection,P100,,,,,3999.00,USD,false
+P042,P042-V001,product-recommendations,Product recommendations,,,active,true,,Title,Default Title,,,,,0.00,USD,false
+P043,P043-V001,rinse-wash-midi-skirt-with-buckle,Rinse-wash midi-skirt with buckle,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,299.00,USD,true
+P043,P043-V002,rinse-wash-midi-skirt-with-buckle,Rinse-wash midi-skirt with buckle,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,299.00,USD,true
+P043,P043-V003,rinse-wash-midi-skirt-with-buckle,Rinse-wash midi-skirt with buckle,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,299.00,USD,true
+P043,P043-V004,rinse-wash-midi-skirt-with-buckle,Rinse-wash midi-skirt with buckle,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,299.00,USD,true
+P043,P043-V005,rinse-wash-midi-skirt-with-buckle,Rinse-wash midi-skirt with buckle,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,299.00,USD,true
+P044,P044-V001,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S001,,,,,0.98,USD,false
+P044,P044-V002,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S002,,,,,1.15,USD,false
+P044,P044-V003,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S003,,,,,1.45,USD,false
+P044,P044-V004,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S004,,,,,1.75,USD,false
+P044,P044-V005,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S005,,,,,2.05,USD,false
+P044,P044-V006,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S006,,,,,2.35,USD,false
+P044,P044-V007,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S007,,,,,2.65,USD,false
+P044,P044-V008,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S008,,,,,2.95,USD,false
+P044,P044-V009,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S009,,,,,3.25,USD,false
+P044,P044-V010,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S010,,,,,3.55,USD,false
+P044,P044-V011,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S011,,,,,3.85,USD,false
+P044,P044-V012,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S012,,,,,4.15,USD,false
+P044,P044-V013,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S013,,,,,4.45,USD,false
+P044,P044-V014,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S014,,,,,4.75,USD,false
+P044,P044-V015,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S015,,,,,5.05,USD,false
+P044,P044-V016,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S016,,,,,5.35,USD,false
+P044,P044-V017,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S017,,,,,5.65,USD,false
+P044,P044-V018,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S018,,,,,5.95,USD,false
+P044,P044-V019,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S019,,,,,6.25,USD,false
+P044,P044-V020,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S020,,,,,6.55,USD,false
+P044,P044-V021,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S021,,,,,6.85,USD,false
+P044,P044-V022,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S022,,,,,7.15,USD,false
+P044,P044-V023,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S023,,,,,7.45,USD,false
+P044,P044-V024,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S024,,,,,7.75,USD,false
+P044,P044-V025,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S025,,,,,8.05,USD,false
+P044,P044-V026,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S026,,,,,8.35,USD,false
+P044,P044-V027,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S027,,,,,8.65,USD,false
+P044,P044-V028,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S028,,,,,8.95,USD,false
+P044,P044-V029,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S029,,,,,9.25,USD,false
+P044,P044-V030,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S030,,,,,9.55,USD,false
+P044,P044-V031,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S031,,,,,9.85,USD,false
+P044,P044-V032,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S032,,,,,10.15,USD,false
+P044,P044-V033,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S033,,,,,10.45,USD,false
+P044,P044-V034,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S034,,,,,10.75,USD,false
+P044,P044-V035,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S035,,,,,11.05,USD,false
+P044,P044-V036,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S036,,,,,11.35,USD,false
+P044,P044-V037,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S037,,,,,11.65,USD,false
+P044,P044-V038,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S038,,,,,11.95,USD,false
+P044,P044-V039,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S039,,,,,12.25,USD,false
+P044,P044-V040,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S040,,,,,12.88,USD,false
+P044,P044-V041,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S041,,,,,13.48,USD,false
+P044,P044-V042,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S042,,,,,14.23,USD,false
+P044,P044-V043,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S043,,,,,14.98,USD,false
+P044,P044-V044,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S044,,,,,15.73,USD,false
+P044,P044-V045,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S045,,,,,16.48,USD,false
+P044,P044-V046,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S046,,,,,17.23,USD,false
+P044,P044-V047,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S047,,,,,17.98,USD,false
+P044,P044-V048,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S048,,,,,18.73,USD,false
+P044,P044-V049,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S049,,,,,19.48,USD,false
+P044,P044-V050,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S050,,,,,20.23,USD,false
+P044,P044-V051,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S051,,,,,20.98,USD,false
+P044,P044-V052,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S052,,,,,21.73,USD,false
+P044,P044-V053,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S053,,,,,22.48,USD,false
+P044,P044-V054,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S054,,,,,23.23,USD,false
+P044,P044-V055,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S055,,,,,23.98,USD,false
+P044,P044-V056,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S056,,,,,26.53,USD,false
+P044,P044-V057,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S057,,,,,29.08,USD,false
+P044,P044-V058,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S058,,,,,31.63,USD,false
+P044,P044-V059,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S059,,,,,34.18,USD,false
+P044,P044-V060,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S060,,,,,36.73,USD,false
+P044,P044-V061,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S061,,,,,39.28,USD,false
+P044,P044-V062,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S062,,,,,41.83,USD,false
+P044,P044-V063,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S063,,,,,44.38,USD,false
+P044,P044-V064,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S064,,,,,46.93,USD,false
+P044,P044-V065,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S065,,,,,49.48,USD,false
+P044,P044-V066,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S066,,,,,55.03,USD,false
+P044,P044-V067,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S067,,,,,60.58,USD,false
+P044,P044-V068,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S068,,,,,66.13,USD,false
+P044,P044-V069,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S069,,,,,71.68,USD,false
+P044,P044-V070,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S070,,,,,77.23,USD,false
+P044,P044-V071,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S071,,,,,82.78,USD,false
+P044,P044-V072,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S072,,,,,88.33,USD,false
+P044,P044-V073,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S073,,,,,93.88,USD,false
+P044,P044-V074,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S074,,,,,99.43,USD,false
+P044,P044-V075,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S075,,,,,105.00,USD,false
+P044,P044-V076,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S076,,,,,114.00,USD,false
+P044,P044-V077,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S077,,,,,122.00,USD,false
+P044,P044-V078,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S078,,,,,131.00,USD,false
+P044,P044-V079,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S079,,,,,139.00,USD,false
+P044,P044-V080,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S080,,,,,148.00,USD,false
+P044,P044-V081,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S081,,,,,156.00,USD,false
+P044,P044-V082,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S082,,,,,165.00,USD,false
+P044,P044-V083,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S083,,,,,173.00,USD,false
+P044,P044-V084,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S084,,,,,182.00,USD,false
+P044,P044-V085,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S085,,,,,190.00,USD,false
+P044,P044-V086,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S086,,,,,202.00,USD,false
+P044,P044-V087,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S087,,,,,214.00,USD,false
+P044,P044-V088,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S088,,,,,225.00,USD,false
+P044,P044-V089,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S089,,,,,237.00,USD,false
+P044,P044-V090,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S090,,,,,248.00,USD,false
+P044,P044-V091,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S091,,,,,260.00,USD,false
+P044,P044-V092,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S092,,,,,271.00,USD,false
+P044,P044-V093,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S093,,,,,283.00,USD,false
+P044,P044-V094,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S094,,,,,294.00,USD,false
+P044,P044-V095,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S095,,,,,309.00,USD,false
+P044,P044-V096,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S096,,,,,325.00,USD,false
+P044,P044-V097,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S097,,,,,341.00,USD,false
+P044,P044-V098,shipping-protection,Shipping Protection,,shipping-protection,unlisted,true,XMHPACELSKU,Plan,S098,,,,,359.00,USD,false
+P045,P045-V001,short-dress-with-bow-detail,Short dress with bow detail,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,899.00,USD,true
+P045,P045-V002,short-dress-with-bow-detail,Short dress with bow detail,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,899.00,USD,true
+P045,P045-V003,short-dress-with-bow-detail,Short dress with bow detail,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,899.00,USD,true
+P045,P045-V004,short-dress-with-bow-detail,Short dress with bow detail,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,899.00,USD,true
+P045,P045-V005,short-dress-with-bow-detail,Short dress with bow detail,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,899.00,USD,true
+P046,P046-V001,straight-knitted-trousers,Straight knitted trousers,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P046,P046-V002,straight-knitted-trousers,Straight knitted trousers,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P046,P046-V003,straight-knitted-trousers,Straight knitted trousers,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P046,P046-V004,straight-knitted-trousers,Straight knitted trousers,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P046,P046-V005,straight-knitted-trousers,Straight knitted trousers,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P047,P047-V001,straight-suit-trousers-1,Straight suit trousers 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,299.00,USD,true
+P047,P047-V002,straight-suit-trousers-1,Straight suit trousers 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,299.00,USD,true
+P047,P047-V003,straight-suit-trousers-1,Straight suit trousers 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,299.00,USD,true
+P047,P047-V004,straight-suit-trousers-1,Straight suit trousers 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,299.00,USD,true
+P047,P047-V005,straight-suit-trousers-1,Straight suit trousers 1,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,299.00,USD,true
+P048,P048-V001,straight-suit-trousers-2,Straight suit trousers 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,L,,,,,399.00,USD,true
+P048,P048-V002,straight-suit-trousers-2,Straight suit trousers 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,M,,,,,399.00,USD,true
+P048,P048-V003,straight-suit-trousers-2,Straight suit trousers 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,S,,,,,399.00,USD,true
+P048,P048-V004,straight-suit-trousers-2,Straight suit trousers 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XL,,,,,399.00,USD,true
+P048,P048-V005,straight-suit-trousers-2,Straight suit trousers 2,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XS,,,,,399.00,USD,true
+P049,P049-V001,straight-suit-trousers-3,Straight suit trousers 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P049,P049-V002,straight-suit-trousers-3,Straight suit trousers 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P049,P049-V003,straight-suit-trousers-3,Straight suit trousers 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P049,P049-V004,straight-suit-trousers-3,Straight suit trousers 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P049,P049-V005,straight-suit-trousers-3,Straight suit trousers 3,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P050,P050-V001,structured-straight-fit-jacket,Structured straight-fit jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P050,P050-V002,structured-straight-fit-jacket,Structured straight-fit jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P050,P050-V003,structured-straight-fit-jacket,Structured straight-fit jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P050,P050-V004,structured-straight-fit-jacket,Structured straight-fit jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P050,P050-V005,structured-straight-fit-jacket,Structured straight-fit jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P051,P051-V001,test,test,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,false,,鎵樺皵鏂嘲,beige,,,,,799.00,USD,false
+P051,P051-V002,test,test,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,false,,鎵樺皵鏂嘲,black,,,,,999.00,USD,false
+P052,P052-V001,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),L,120.00,USD,false
+P052,P052-V002,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),M,120.00,USD,false
+P052,P052-V003,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),S,120.00,USD,false
+P052,P052-V004,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),XL,120.00,USD,false
+P052,P052-V005,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),XS,120.00,USD,false
+P052,P052-V006,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),L,120.00,USD,false
+P052,P052-V007,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),M,120.00,USD,false
+P052,P052-V008,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),S,120.00,USD,false
+P052,P052-V009,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),XL,120.00,USD,false
+P052,P052-V010,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),XS,120.00,USD,false
+P052,P052-V011,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),L,120.00,USD,false
+P052,P052-V012,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),M,120.00,USD,false
+P052,P052-V013,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),S,120.00,USD,false
+P052,P052-V014,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),XL,120.00,USD,false
+P052,P052-V015,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),XS,120.00,USD,false
+P052,P052-V016,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),L,120.00,USD,false
+P052,P052-V017,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),M,120.00,USD,false
+P052,P052-V018,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),S,120.00,USD,false
+P052,P052-V019,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),XL,120.00,USD,false
+P052,P052-V020,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),L,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),XS,120.00,USD,false
+P052,P052-V021,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),L,130.00,USD,false
+P052,P052-V022,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),M,130.00,USD,false
+P052,P052-V023,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),S,130.00,USD,false
+P052,P052-V024,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),XL,130.00,USD,false
+P052,P052-V025,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),XS,130.00,USD,false
+P052,P052-V026,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),L,130.00,USD,false
+P052,P052-V027,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),M,130.00,USD,false
+P052,P052-V028,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),S,130.00,USD,false
+P052,P052-V029,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),XL,130.00,USD,false
+P052,P052-V030,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),XS,130.00,USD,false
+P052,P052-V031,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),L,130.00,USD,false
+P052,P052-V032,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),M,130.00,USD,false
+P052,P052-V033,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),S,130.00,USD,false
+P052,P052-V034,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),XL,130.00,USD,false
+P052,P052-V035,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),XS,130.00,USD,false
+P052,P052-V036,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),L,130.00,USD,false
+P052,P052-V037,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),M,130.00,USD,false
+P052,P052-V038,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),S,130.00,USD,false
+P052,P052-V039,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),XL,130.00,USD,false
+P052,P052-V040,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),M,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),XS,130.00,USD,false
+P052,P052-V041,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),L,100.00,USD,false
+P052,P052-V042,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),M,100.00,USD,false
+P052,P052-V043,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),S,100.00,USD,false
+P052,P052-V044,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),XL,100.00,USD,false
+P052,P052-V045,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),3XS,Asymmetric belt jumpsuit (Size),XS,100.00,USD,false
+P052,P052-V046,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),L,100.00,USD,false
+P052,P052-V047,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),M,100.00,USD,false
+P052,P052-V048,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),S,100.00,USD,false
+P052,P052-V049,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),XL,100.00,USD,false
+P052,P052-V050,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),L,Asymmetric belt jumpsuit (Size),XS,100.00,USD,false
+P052,P052-V051,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),L,100.00,USD,false
+P052,P052-V052,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),M,100.00,USD,false
+P052,P052-V053,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),S,100.00,USD,false
+P052,P052-V054,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),XL,100.00,USD,false
+P052,P052-V055,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),M,Asymmetric belt jumpsuit (Size),XS,100.00,USD,false
+P052,P052-V056,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),L,100.00,USD,false
+P052,P052-V057,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),M,100.00,USD,false
+P052,P052-V058,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),S,100.00,USD,false
+P052,P052-V059,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),XL,100.00,USD,false
+P052,P052-V060,test-bundle,test bundle,Uncategorized,,active,false,,Cotton boat neck t-shirt (test1) (Size),XL,Cotton boat neck t-shirt (test2) (Size),XL,Asymmetric belt jumpsuit (Size),XS,100.00,USD,false
+P053,P053-V001,turtleneck-wool-jacket,Turtleneck wool jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P053,P053-V002,turtleneck-wool-jacket,Turtleneck wool jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P053,P053-V003,turtleneck-wool-jacket,Turtleneck wool jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P053,P053-V004,turtleneck-wool-jacket,Turtleneck wool jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P053,P053-V005,turtleneck-wool-jacket,Turtleneck wool jacket,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P054,P054-V001,tweed-jacket-with-jewel-buttons,Tweed jacket with jewel buttons,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P054,P054-V002,tweed-jacket-with-jewel-buttons,Tweed jacket with jewel buttons,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P054,P054-V003,tweed-jacket-with-jewel-buttons,Tweed jacket with jewel buttons,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,SKU45763441524994,Size,S,,,,,799.00,USD,true
+P054,P054-V004,tweed-jacket-with-jewel-buttons,Tweed jacket with jewel buttons,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P054,P054-V005,tweed-jacket-with-jewel-buttons,Tweed jacket with jewel buttons,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P055,P055-V001,white,White,Uncategorized,,active,true,,Title,Default Title,,,,,0.00,USD,false
+P056,P056-V001,wideleg-jeans-with-belt-detail,Wideleg jeans with belt detail,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,L,,,,,399.00,USD,true
+P056,P056-V002,wideleg-jeans-with-belt-detail,Wideleg jeans with belt detail,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,M,,,,,399.00,USD,true
+P056,P056-V003,wideleg-jeans-with-belt-detail,Wideleg jeans with belt detail,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,S,,,,,399.00,USD,true
+P056,P056-V004,wideleg-jeans-with-belt-detail,Wideleg jeans with belt detail,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XL,,,,,399.00,USD,true
+P056,P056-V005,wideleg-jeans-with-belt-detail,Wideleg jeans with belt detail,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XS,,,,,399.00,USD,true
+P057,P057-V001,wideleg-trousers-with-decorative-seams,Wideleg trousers with decorative seams,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,599.00,USD,true
+P057,P057-V002,wideleg-trousers-with-decorative-seams,Wideleg trousers with decorative seams,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,599.00,USD,true
+P057,P057-V003,wideleg-trousers-with-decorative-seams,Wideleg trousers with decorative seams,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,599.00,USD,true
+P057,P057-V004,wideleg-trousers-with-decorative-seams,Wideleg trousers with decorative seams,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,599.00,USD,true
+P057,P057-V005,wideleg-trousers-with-decorative-seams,Wideleg trousers with decorative seams,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,599.00,USD,true
+P058,P058-V001,wool-blend-midi-skirt,Wool-blend midi-skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,L,,,,,399.00,USD,true
+P058,P058-V002,wool-blend-midi-skirt,Wool-blend midi-skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,M,,,,,399.00,USD,true
+P058,P058-V003,wool-blend-midi-skirt,Wool-blend midi-skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,S,,,,,399.00,USD,true
+P058,P058-V004,wool-blend-midi-skirt,Wool-blend midi-skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XL,,,,,399.00,USD,true
+P058,P058-V005,wool-blend-midi-skirt,Wool-blend midi-skirt,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats,,active,true,,Size,XS,,,,,399.00,USD,true
+P059,P059-V001,wool-jacket-with-pockets,Wool jacket with pockets,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,899.00,USD,true
+P059,P059-V002,wool-jacket-with-pockets,Wool jacket with pockets,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,899.00,USD,true
+P059,P059-V003,wool-jacket-with-pockets,Wool jacket with pockets,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,899.00,USD,true
+P059,P059-V004,wool-jacket-with-pockets,Wool jacket with pockets,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,899.00,USD,true
+P059,P059-V005,wool-jacket-with-pockets,Wool jacket with pockets,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,899.00,USD,true
+P060,P060-V001,zip-straight-cut-coat,Zip straight-cut coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,l,,,,,509.15,USD,true
+P060,P060-V002,zip-straight-cut-coat,Zip straight-cut coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,m,,,,,509.15,USD,true
+P060,P060-V003,zip-straight-cut-coat,Zip straight-cut coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,s,,,,,509.15,USD,true
+P060,P060-V004,zip-straight-cut-coat,Zip straight-cut coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,xl,,,,,509.15,USD,true
+P060,P060-V005,zip-straight-cut-coat,Zip straight-cut coat,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,xs,,,,,509.15,USD,true
+P061,P061-V001,zipped-knit-cardigan,Zipped knit cardigan,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,L,,,,,799.00,USD,true
+P061,P061-V002,zipped-knit-cardigan,Zipped knit cardigan,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,M,,,,,799.00,USD,true
+P061,P061-V003,zipped-knit-cardigan,Zipped knit cardigan,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,S,,,,,799.00,USD,true
+P061,P061-V004,zipped-knit-cardigan,Zipped knit cardigan,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XL,,,,,799.00,USD,true
+P061,P061-V005,zipped-knit-cardigan,Zipped knit cardigan,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,active,true,,Size,XS,,,,,799.00,USD,true
+P062,P062-V001,托尔斯泰,托尔斯泰,Uncategorized,,active,true,,Title,Default Title,,,,,0.00,USD,false
+P063,P063-V001,鎵樺皵鏂-嘲,鎵樺皵鏂嘲,Uncategorized,,active,true,,Title,Default Title,,,,,0.00,USD,false
