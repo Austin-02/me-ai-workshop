@@ -11,7 +11,7 @@
 | WP01 | 安装 PPT Skill、生成测试 PPT | 指令已归档，未实测 | [PPT Skill](../01-ppt-skill/README.md) |
 | WP02 | 配置 Shopify MCP、只读查询商品 | 指令草案，最终连接方案待选，未实测 | [Shopify MCP](../02-shopify-mcp/README.md) |
 | WP03 | 从 GitHub 读取模拟数据，导入 BQ | 指令草案，数据已准备，BQ 未实测 | [数据包](../03-demo-data/README.md) · [BQ](../04-bigquery/README.md) |
-| WP04 | 安装经营分析 Skill | 待确认已有 Skill 来源或适配方案，指令待研发 | [分析 Skill](../05-data-analysis/README.md) |
+| WP04 | 安装经营分析 Skill | V0.1.0 Skill 与安装指令已归档，待实测 | [分析 Skill](../05-data-analysis/README.md) |
 | WP05 | Anti 创建并部署 Agent、注册至 GE；GE 体验；回 Anti 生成 PPT | WP05-01/02 指令已归档，依赖 WP03/04 及授权，待实测 | [Agent](../06-agent-builder/README.md) |
 
 ## 维护规则

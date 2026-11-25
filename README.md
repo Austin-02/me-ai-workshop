@@ -26,7 +26,7 @@ MCP 查询体验独立，不强制分析 Agent 调用 Shopify MCP。交互 Demo 
 - [Shopify MCP](02-shopify-mcp/README.md) — 只读查询连接、配置模板、模拟订单状态查询；不要求接入分析 Agent。
 - [模拟历史数据](03-demo-data/README.md) — 脱敏或合成历史数据、数据字典、预设经营问题与数据来源说明。
 - [BigQuery 入仓与查询](04-bigquery/README.md) — 数据导入 Prompt/脚本、表结构、记录数校验及 BQ 查询连接。
-- [已有数据分析 Skill](05-data-analysis/README.md) — 原始来源、授权、安装说明、BQ 适配及指标口径；不重复研发。
+- [ME 电商经营分析 Skill](05-data-analysis/README.md) — V0.1.0 轻量教学 Skill、安装指令、BQ 只读分析规则及指标口径。
 - [数据分析 Agent](06-agent-builder/README.md) — 基于 BQ 创建、部署及注册 GE 分析 Agent 的 Prompt、会前权限准备与实际体验验收。
 - [GE Agent 体验](07-enterprise-agent/README.md) — 仅放学员访问指引、对话任务、Top 3 场景及专项方案输出说明；交互 Demo 即 GE Agent。
 - [测试与验收](08-testing/README.md) — 测试用例、预期结果、环境/版本、结果记录、备用方案。标准答案发布前审查。

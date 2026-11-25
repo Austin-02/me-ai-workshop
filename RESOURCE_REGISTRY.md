@@ -9,7 +9,7 @@
 | Shopify MCP | 待确认 | 待确认 | 待补充 | 待分配 | 未验证 |
 | 模拟历史数据 | 待确认 | 待确认 | 待补充 | 待分配 | 未验证 |
 | BigQuery 入仓与查询 | 待确认 | 待确认 | 待补充 | 待分配 | 未验证 |
-| 已有数据分析 Skill | 待确认 | 待确认 | 待补充 | 待分配 | 未验证 |
+| 电商经营分析 Skill | [me-ecommerce-analysis](05-data-analysis/me-ecommerce-analysis/SKILL.md) · v0.1.0 | 内部教学；对外授权待确认 | [WP04-01 安装](05-data-analysis/install-prompt.md) | 待分配 | 源码与指令已归档，Anti/BQ/GE 待实测 |
 | 数据分析 Agent | Google Agents CLI / ADK，实际版本待确认 | 按官方工具及组织权限确认 | [WP05-01 Prompt](06-agent-builder/create-agent-prompt.md) · [授权清单](06-agent-builder/authorization-checklist.md) | 待分配 | 指令已确认；实际部署、GE 注册与使用未验证 |
 | GE Agent 体验 | 待确认 | 待确认 | 待补充 | 待分配 | 未验证 |
 | 测试与验收 | 待确认 | 待确认 | 待补充 | 待分配 | 未验证 |

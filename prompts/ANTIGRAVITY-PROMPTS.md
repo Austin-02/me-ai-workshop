@@ -67,17 +67,25 @@ https://github.com/Austin-02/me-ai-workshop/tree/main/03-demo-data
 
 ## WP04｜安装电商经营分析 Skill
 
-状态：待研发/确认已有 Skill 来源及 BQ 适配方案。此处预留 WP04-01 完整安装指令；不得将占位视为可执行 Prompt。完成来源、版本、许可、安装方式与验收标准后更新。
+状态：V0.1.0 轻量 Skill 与安装指令已归档，依赖 WP03 已验证的教学数据集；Anti 识别及真实 BQ 查询待实测。
+
+### WP04-01 安装并测试经营分析 Skill
+
+请在当前 Antigravity 工作空间安装 ME 电商经营分析 Skill（`me-ecommerce-analysis`）。
+
+https://github.com/Austin-02/me-ai-workshop/tree/main/05-data-analysis/me-ecommerce-analysis
+
+读取并检查 SKILL.md 及 references，按当前 Anti 实际支持的 Skills 目录安装完整技能，保留已有自定义内容。确认 Skill 可被识别，自动发现上一环节已导入且获授权的 BigQuery 教学数据集，并使用实际只读查询测试经营概览。输出 Skill 安装路径、版本、数据集、实际查询结果和异常；若存在多个匹配数据集请让我确认，不得编造数据或扩大权限。
 
 ## WP05｜在 Anti 创建 Agent，发布至 GE 并输出 PPT
 
-状态：WP05-01 指令已确认并归档，尚未实测。依赖 WP03 入仓验收、WP04 分析 Skill、获授权的 Agent 部署环境与 GE 应用。WP04 目录当前尚未包含完整 Skill，待确认准确 Skill ID。所有研发/部署 Prompt 输入 Anti；发布后学员在 GE 中实际体验自己创建的经营分析 Agent。会前权限准备见 [技术清单](../06-agent-builder/authorization-checklist.md)。
+状态：WP05-01 指令已确认并归档，尚未实测。依赖 WP03 入仓验收、WP04 分析 Skill、获授权的 Agent 部署环境与 GE 应用。WP04 Skill ID 为 me-ecommerce-analysis（V0.1.0），实际安装及部署仍待验证。所有研发/部署 Prompt 输入 Anti；发布后学员在 GE 中实际体验自己创建的经营分析 Agent。会前权限准备见 [技术清单](../06-agent-builder/authorization-checklist.md)。
 
 ### WP05-01 创建并发布企业经营分析 Agent（已确认，待实测）
 
-请读取我在 Antigravity 中已安装的 ME 电商经营分析 Skill，参考其 GitHub 源码及分析规则：
+请读取我在 Antigravity 中已安装的 ME 电商经营分析 Skill（me-ecommerce-analysis），参考其 GitHub 源码及分析规则：
 
-https://github.com/Austin-02/me-ai-workshop/tree/main/05-data-analysis
+https://github.com/Austin-02/me-ai-workshop/tree/main/05-data-analysis/me-ecommerce-analysis
 
 自动识别 BigQuery 中已导入的 Shopify 模拟经营数据，包括 products、customers、orders、order_items、inventory 五张表。
 

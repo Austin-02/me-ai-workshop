@@ -1,10 +1,10 @@
 # WP05-01 创建并发布企业经营分析 Agent
 
-版本：2026-11-25 用户确认；未实测。WP04 Skill 完成后核对准确 ID 及版本。下方是学员在 Anti 输入的完整指令，与统一手册同步。
+版本：2026-11-25 用户确认；未实测。WP04 Skill：me-ecommerce-analysis v0.1.0；部署前核验实际安装版本。下方是学员在 Anti 输入的完整指令，与统一手册同步。
 
-请读取我在 Antigravity 中已安装的 ME 电商经营分析 Skill，参考其 GitHub 源码及分析规则：
+请读取我在 Antigravity 中已安装的 ME 电商经营分析 Skill（me-ecommerce-analysis），参考其 GitHub 源码及分析规则：
 
-https://github.com/Austin-02/me-ai-workshop/tree/main/05-data-analysis
+https://github.com/Austin-02/me-ai-workshop/tree/main/05-data-analysis/me-ecommerce-analysis
 
 自动识别 BigQuery 中已导入的 Shopify 模拟经营数据，包括 products、customers、orders、order_items、inventory 五张表。
 
