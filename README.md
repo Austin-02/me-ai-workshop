@@ -13,6 +13,12 @@ ME Enterprise AI Workshop Toolkit — Skills, MCP, BigQuery, AI Agents and hands
 
 MCP 查询体验独立，不强制分析 Agent 调用 Shopify MCP。交互 Demo 即 GE Agent。
 
+## Antigravity 统一实战 Prompt 入口
+
+[**WP01–WP05 完整 Prompt 手册**](prompts/ANTIGRAVITY-PROMPTS.md) · [状态与维护说明](prompts/README.md)
+
+统一跟练的所有 Prompt 均在 Antigravity 中输入。模块研发资料与学员指令分开管理；草案及待研发项清晰标注，真实平台通过后再冻结发布。
+
 ## 目录索引
 
 - [Antigravity 环境](00-environment/README.md) — 安装入口、系统兼容性、账号授权和环境检查。
