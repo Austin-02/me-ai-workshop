@@ -1,0 +1,17 @@
+# credentials and local environments
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+credentials.json
+*service-account*.json
+**/.secrets/
+**/private-data/
+**/customer-data/
+**/internal-knowledge/
+.venv/
+__pycache__/
+node_modules/
+.DS_Store
